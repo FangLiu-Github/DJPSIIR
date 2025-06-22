@@ -26,6 +26,6 @@ cd DJPSIIR
 ```
 Next, download the transplant data from the Zenodo Database and process it accordingly.
 ```bash
-https://zenodo.org/records/13918025
+https://doi.org/10.5281/zenodo.15715170
 ```
 
