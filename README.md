@@ -24,8 +24,8 @@ First, clone project:
 git clone git@github.com:FangLiu-Github/DJPSIIR.git
 cd DJPSIIR
 ```
-Next, download the transplant data from the Zenodo Database and process it accordingly.
+Next, download the transplant data from the Figshare Database and process it accordingly.
 ```bash
-https://doi.org/10.5281/zenodo.15715170
+https://doi.org/10.6084/m9.figshare.29390141
 ```
 
